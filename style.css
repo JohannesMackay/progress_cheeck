@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: flex;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  background-color: green;
+  display: flex;
+  justify-content: center;
+  width: 100;
+  color: ghostwhite;
+}
+
+.navagation{
+  display: flex;
+  justify-content: content;
+  text-align: center;
+  font-size: 18px;
+}
